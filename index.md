@@ -58,3 +58,10 @@ layout: default
 
 　　总的来说，在布基纳法索搞定上网这件事，就像在当地坐小巴车一样——需要一点耐心，也需要一点随机应变。但一旦连上网，整个世界就又回到了你手中。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Burkina Faso SIM 卡购买与激活指南](https://faciylike.github.io/burkina-faso-sim-guides)
